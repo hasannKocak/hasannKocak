@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**hasannKocak/hasannKocak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <b> Hasan Koçak | Software Engineer
+### **Contact:**
+<p align="left">
+  <a href="https://linkedin.com/in/hasannkocak" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin" />
+  </a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js&theme=light" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,postgres,redis,postman,docker,kubernetes,git,github,linux,html,css&theme=light" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea&theme=light" />
+  </a>
+</p>
